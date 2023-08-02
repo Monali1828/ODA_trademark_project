@@ -1,0 +1,19 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore virtual environment
+venv/
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+
+# Ignore sensitive information
+secrets.json
+
+# Ignore build outputs
+build/
+dist/
+
+__pycache__/
+
